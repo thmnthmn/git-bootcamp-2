@@ -1,1 +1,0 @@
-The Html and CSS  files contain code for a fitness tool webpage.
