@@ -1,1 +1,2 @@
-this is different text from new branch
+Line 1
+Line 2
