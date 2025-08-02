@@ -11,4 +11,25 @@ body{
     margin: 50px 50px;
     background-color: chocolate;
     padding: 50px 50px;
+    font-family: inter;
+    border-radius: 12px;
 }
+
+.h2{
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+button{
+    padding: 10px 10px;
+    border-radius: 12px;
+    background-color: rgb(207, 255, 75);
+    text-decoration: none;
+    font-family: inter;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+
+
+
