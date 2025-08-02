@@ -1,2 +1,4 @@
 LINE @
 LINE $ new
+LINE main changed
+LINE 2 main 
