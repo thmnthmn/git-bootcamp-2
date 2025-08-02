@@ -1,1 +1,1 @@
-this is different text from new branch
+This text is completely  different
