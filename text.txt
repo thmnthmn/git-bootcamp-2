@@ -1,1 +1,1 @@
-git 
+this is different text from new branch
