@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tools</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <section class="tools">
+        <div class="container">
+            <h2>WORKOUT PLANNER</h2>
+            <p>This tool lets you to select your fitness goal and suggests a workout plan.</p>
+            <label for="goal">YOUR GOAL: </label>
+            <select id="goal">
+                <option value="muscle">Build Muscle</option>
+                <option value="fat">Lose Fat</option>
+            </select>
+            <button onclick="workoutPlanner()">GET WORKOUT PLAN</button>
+            <div class="result" id="result"></div>
+        </div>
+    </section>
+</body>
+</html>
